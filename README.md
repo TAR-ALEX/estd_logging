@@ -23,6 +23,6 @@ To use this project with a dependency manager install the cpp-dependency-manager
 and create a vendor.txt file and add the following entries:
 
 ```
-git "https://github.com/TAR-ALEX/substreams_cpp" main "./include" "./vendor/include",
+git "https://github.com/TAR-ALEX/estd_logging.git" master "./include" "./vendor/include",
 
 ```
